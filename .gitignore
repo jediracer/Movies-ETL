@@ -1,0 +1,4 @@
+# Files to ignore
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
