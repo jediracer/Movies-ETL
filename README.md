@@ -22,8 +22,10 @@ Create a database for the Amazing Prime Hackathon.
 
 ## Summary
 - After the movie data was cleaned a total of 6,052 records were inserted into the 'movies' table.   
-	- Movies
+	- Movies:
+	
 	![Movies](https://github.com/jediracer/Movies-ETL/blob/main/Resources/movies_query.png)
 - After the movie ratings data was cleaned a total of 26,024,289 records were inserted into the 'ratings' table.
-	- Ratings
+	- Ratings:
+	
 	![Ratings](https://github.com/jediracer/Movies-ETL/blob/main/Resources/ratings_query.png)
