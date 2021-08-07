@@ -1,5 +1,5 @@
 # Files to ignore
-movies_metadata.csv
-ratings.csv
-wikipedia-movies.json
+# movies_metadata.csv
+# ratings.csv
+# wikipedia-movies.json
 config.py
