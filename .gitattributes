@@ -1,0 +1,2 @@
+# lfs file type
+*.csv filter=lfs diff=lfs merge=lfs -text
