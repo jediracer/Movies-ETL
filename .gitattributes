@@ -1,3 +1,4 @@
 # lfs file type
 *.csv filter=lfs diff=lfs merge=lfs -text
 resources/ratings.csv filter=lfs diff=lfs merge=lfs -text
+Resources/ratings.csv filter=lfs diff=lfs merge=lfs -text
